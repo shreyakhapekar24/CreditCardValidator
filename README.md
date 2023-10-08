@@ -27,5 +27,8 @@ Functionalities:
 5. Card Type Recognition: The program recognizes and displays the brand of the credit card based on the first few digits of the card number. It identifies Visa, Mastercard, and American Express cards.
 6. Validation Result: After processing the credit card number, the program informs the user whether the card is valid or invalid. If the sum of the digits is divisible by 10, it indicates that the card is valid; otherwise, it's considered invalid.
 
+
+
+
 ![Screenshot (285)](https://github.com/shreyakhapekar24/CreditCardValidator/assets/97623859/44f1ae9a-20e2-4887-9166-28217212dcc0)
 
