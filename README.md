@@ -30,5 +30,6 @@ Functionalities:
 
 
 
-![Screenshot (285)](https://github.com/shreyakhapekar24/CreditCardValidator/assets/97623859/44f1ae9a-20e2-4887-9166-28217212dcc0)
 
+
+![Screenshot (285)](https://github.com/shreyakhapekar24/CreditCardValidator/assets/97623859/44f1ae9a-20e2-4887-9166-28217212dcc0)
