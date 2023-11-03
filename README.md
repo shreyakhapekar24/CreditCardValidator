@@ -31,4 +31,3 @@ The key steps of the Luhn algorithm are as follows:
 
 
 ![Screenshot (285)](https://github.com/shreyakhapekar24/CreditCardValidator/assets/97623859/5885f431-a0e6-454c-9044-43d56cb81207)
-
