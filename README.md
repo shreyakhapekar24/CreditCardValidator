@@ -3,7 +3,6 @@ The Credit Card Validator project is a C++ program designed to validate credit c
 
 
 
-
 ## Luhn Algorithm:
 
 The Luhn algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a simple yet effective method for validating a variety of identification numbers, including credit card numbers. It works by applying a series of mathematical operations to the digits in the card number and then checking if the result is divisible by 10.
